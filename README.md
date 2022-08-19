@@ -11,7 +11,7 @@ I am excited to build platforms used by our future leaders and contribute to the
 ## Quick Facts
 
 - 🌱 I’m currently learning JavaScript, HTML, and CSS. In addition, I am working with jQuery and Bootstrap.
-- 📫 How to reach me: linkedin.com/mellisporter
+- 📫 Best way to reach me: [LinedIn] (www.linkedin.com/mellisporter)
 - 😄 Pronouns: he/him
 - :pencil2: VS Code is my favorite editor!
 - :musical_note: I write/produce music in my free time. Always down to collaborate!
