@@ -13,6 +13,7 @@ I am excited to build platforms used by our future leaders and contribute to the
 - 🌱 I’m currently learning JavaScript, HTML, and CSS. In addition, I am working with jQuery and Bootstrap.
 - 📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/mellisporter)
 - 😄 Pronouns: he/him
+- :blue_book: Lifelong learner
 - :pencil2: VS Code is my favorite editor!
-- :musical_note: I write/produce music in my free time. Always down to collaborate!
+- :musical_note: I write/produce music in my free time. I'm always down to collaborate!
 - :sparkling_heart: Mental health advocate. Check out my non-profit work [here.](https://www.lookalive.co)
