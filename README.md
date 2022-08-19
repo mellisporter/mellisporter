@@ -2,7 +2,7 @@
 
 #### Thank you for visitig my GitHub Profile. A little bit about me...
 
-I am currently a student in General Assembly's Software Engineering Immersive Program. I am so excited to be learning how to use JavaScript, HTML, and CSS to build accessible web applications.
+I am currently a student in General Assembly's Software Engineering Immersive Program. I am so grateful to be learning how to use JavaScript, HTML, and CSS to build accessible web applications.
 
 As an educator during the pandemic, I became fascinated as we transitioned to using technologies that assisted virtual learning. I wanted to learn how I could contribute to these kinds of projects, which kickstarted my coding journey. This path has allowed me to solve complex problems in creative ways, all while continuing to learn and grow. I firmly believe in asking questions and staying curious!
 
