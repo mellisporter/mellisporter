@@ -15,4 +15,4 @@ I am excited to build platforms used by our future leaders and contribute to the
 - 😄 Pronouns: he/him
 - :pencil2: VS Code is my favorite editor!
 - :musical_note: I write/produce music in my free time. Always down to collaborate!
-- :sparkling_heart: Mental health advocate. Check out my non-profit work here.
+- :sparkling_heart: Mental health advocate. Check out my non-profit work [here.](www.lookalive.co)
