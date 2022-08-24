@@ -16,3 +16,8 @@ I am excited to build platforms used by our future leaders and contribute to the
 - :blue_book: Lifelong learner!
 - :pencil2: VS Code is my favorite editor!
 - :musical_note: I write/produce music in my free time. I'm always down to collaborate!
+
+## Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=mellisporter&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mellisporter&langs_count=5&theme=tokyonight)]()
